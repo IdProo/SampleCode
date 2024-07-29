@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "gulp": "4.0.2",
+    "@types/jquery": "3.3.33",
+    "oidc-client": "1.11.5"
+  },
+  "devDependencies": {}
+}

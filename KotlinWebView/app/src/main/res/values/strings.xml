@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">office</string>
+    <string name="zeroplus">ZeroPlus</string>
+    <string name="login">Login</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_inbox">Inbox</string>
+    <string name="menu_draft">Draft</string>
+    <string name="menu_sent_items">Sent Items</string>
+    <string name="menu_rejected">Rejected</string>
+    <string name="menu_archive">Archive</string>
+    <string name="menu_settings">Settings</string>
+</resources>
